@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Yiorgios Simulated Universe
+email: You nosy bugger
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+"This is going to be the greatest portfolio highlighting real world MARL robotics projects ever. You will see."
+twitter_username: Twitter_sux
+github_username: YZMSimulator
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Yiorgio Zoltan Mathioudakis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Basically I am a beekeeper who loves bees so much that I decided to change careers into robotics in an attempt to create them digitally, and then attempt to bring them into the real world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -85,7 +83,7 @@ footer:
       url: "https://YZMSimulator.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yiorgiom"
 
 defaults:
   # _posts
