@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "This is going to be the greatest portfolio highlighting real world MARL robotics projects ever. You will see."
 twitter_username: Twitter_sux
 github_username: YZMSimulator
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
